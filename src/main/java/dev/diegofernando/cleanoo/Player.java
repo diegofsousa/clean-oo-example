@@ -28,6 +28,7 @@ public class Player {
         this.email = email;
         this.position = position;
         this.salary = salary;
+        this.salary  = salary;
     }
 
     @Deprecated
